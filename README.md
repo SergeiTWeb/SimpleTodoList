@@ -6,25 +6,25 @@ A modern, feature-rich todo list application built with React. Track your tasks 
 ![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ Features
+## Features
 
 - **Add Todos** - Create new tasks quickly
 - **Mark Complete** - Toggle task completion status
 - **Delete Todos** - Remove tasks you no longer need
 - **Persistent Storage** - Your todos are saved in localStorage
-- **Modern UI** - Beautiful gradient design with smooth animations
+- **Modern UI** - Simple and modern design with smooth animations
 - **Responsive** - Works perfectly on mobile and desktop
 - **Keyboard Accessible** - Full keyboard navigation support
 
 ## Live Demo
 
-Check out the live demo: [Your GitHub Pages URL here]
+Check out the live demo: [https://sergeitweb.github.io/SimpleTodoList/]
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-todo-app.git
+   git clone https://github.com/SergeiTWeb/SimpleTodoList.git
    cd react-todo-app
    ```
 2. **Install dependencies**
@@ -36,7 +36,7 @@ Check out the live demo: [Your GitHub Pages URL here]
    npm run dev
    ```
 4. **Open your browser**
-   Navigate to http://localhost:5173
+   Navigate to http://localhost:5174
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ Check out the live demo: [Your GitHub Pages URL here]
 ## 📁 Project Structure
 
 ```bash
-react-todo-app/
+simple-todo-list/
 ├── src/
 │   ├── App.jsx           # Main application component
 │   ├── main.jsx          # Entry point
