@@ -25,7 +25,7 @@ Check out the live demo: [https://sergeitweb.github.io/SimpleTodoList/]
 1. **Clone the repository**
    ```bash
    git clone https://github.com/SergeiTWeb/SimpleTodoList.git
-   cd react-todo-app
+   cd SimpleTodoList
    ```
 2. **Install dependencies**
    ```bash
@@ -36,7 +36,7 @@ Check out the live demo: [https://sergeitweb.github.io/SimpleTodoList/]
    npm run dev
    ```
 4. **Open your browser**
-   Navigate to http://localhost:5174
+   Navigate to http://localhost:5173
 
 ## Tech Stack
 
