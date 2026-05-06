@@ -1,0 +1,56 @@
+# === Dependencies ===
+node_modules/
+
+# === Build Outputs ===
+dist/
+build/
+dist-ssr/
+
+# === Logs & Debug ===
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# === Environment Variables (SECRETS!) ===
+.env
+.env.local
+.env.*.local
+*.env
+
+# === IDE & Editor ===
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.swn
+*.sux
+*.sublime-*
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Temporary Files ===
+*.tmp
+*.temp
+*.bak
+*.orig
+*.local
+
+# === Package Manager Locks (keep ONE) ===
+# Keep package-lock.json OR yarn.lock OR pnpm-lock.yaml
+# Delete the others if you switch managers
+
+# === GitHub Pages / Deployment ===
+# (nothing to ignore here - gh-pages handles dist/)
+
+# === Optional: Coverage / Testing ===
+coverage/
+.nyc_output/
